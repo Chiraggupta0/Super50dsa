@@ -1,3 +1,4 @@
+https://chiraggupta0.github.io/Super50dsa/random
 # ques-1
 
 Continuous Subarray Sum Equal to K

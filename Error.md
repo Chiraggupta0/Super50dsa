@@ -1,3 +1,5 @@
+https://chiraggupta0.github.io/Super50dsa/Error
+
 # Array Gap
 
 Difficulty: MEDIUM | Max Score: 50
